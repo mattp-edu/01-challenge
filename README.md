@@ -30,4 +30,4 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ## Demo
 
-Live page demo: [LINK](mattp-edu.github.io/horiseon-refactor)
+Live page demo: [LINK](https://mattp-edu.github.io/horiseon-refactor/)
